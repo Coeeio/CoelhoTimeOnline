@@ -1,0 +1,7 @@
+name: CoelhoTimeOnline
+author: Coelho
+main: coelho.coelho.TimeOnline
+
+version: 1.0
+commands:
+    time:
